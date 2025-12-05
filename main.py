@@ -33,9 +33,30 @@ def home():
     st.subheader("this is 2nd version of cr7 games. there are no games right now but there will be. till then use the proxys. not all the proxys may work for you so test them all.")
 
 def proxy():
-    st.header("Proxys:")
-    st.subheader("there will me more soon")
+    st.header("Updated Links")
+
     st.markdown("""
+    - https://roughly-classic-ladybug.global.ssl.fastly.net/
+    -https://incog.works
+    -https://xyz.zaylovesparker.xyz
+    - https://rex-web.global.ssl.fastly.net/
+    - https://d1wj13dnncr67a.cloudfront.net/
+    - https://wqs7ujl.beanweb.qzz.io.cdn.cloudflare.net/
+    - https://securly.com.go4it.com.mx/
+    - https://loilo3.webredirect.org/
+    - https://en.en.www.www.app.ligjtlproxy.home64.de/
+    - https://dev.vpn.104-243-45-193.traefik.me/
+    - https://samex-5.ipv64.net/
+    - https://yuru.haifu.ipv64.net/
+    - https://stateexams.statetestingstudies.com/
+    - https://lookingfora-job.com.bostoncareercounselor.com/
+    - https://mathshelp.lasersoft.com.au/
+    - https://alexsgamehub-proxys-16942330.codehs.me/
+    - https://selfstudybrain.com/
+    - https://universityequality.com/
+    - https://newalgebra.com/
+    - https://virtualstudybrain.com/
+    - https://xn--31byd1i.net/
     - https://ubgroblox.global.ssl.fastly.net/
     - https://mathstutor.life/
     - https://educationbluesky.com/
@@ -46,67 +67,8 @@ def proxy():
     - https://hotkitchenbag.com/
     - https://websitesbridge.com/
     - https://mathsspot.com/
-    - https://selfstudybrain.com/
-    - https://universityequality.com/
-    - https://websitebridge.com/
-    - https://newalgebra.com/
-    - https://virtualstudybrain.com/
-    - https://acb.basketballrandom.net/demo/
-    - https://xn--31byd1i.net/
-    - https://nowgg.usercontent.motorcycles/
-    - https://next-level.is-very.fun/
-    - https://mathwork-for-science-class.tutorz0.usercontent.motorcycles/
-    - https://shuttle.lol/apps/roblox-corporation/5349/roblox.html
-    - https://v3.now.gg/
-    - https://beta1.apktbg.com/demo
-    - https://beta2.apktbg.com/demo
-    - https://beta3.apktbg.com/demo
-    - https://beta4.apktbg.com/demo
-    - https://beta5.apktbg.com/demo
-    - https://beta6.apktbg.com/demo
-    - https://beta7.apktbg.com/demo
-    - https://qtec.7s.com.tr/
-    - https://use.bsfa.info/
-    - https://use.gurdit.com/
-    - https://edu.bsfa.info/
-    - https://edu.gurdit.com/
-    - https://progresslearning.7s.com.tr/
-    - https://e-learning.7s.com.tr/
-    - https://lunar.myclarevision.com/
-    - https://mathpdf.chanka.com/
-    - https://gogglechemistry.chanka.com/
-    - https://mydogatemyhw.chanka.com/a
-    - https://empirehsgames.eroeasy.com/
-    - https://meow.ajhurst.org/edu/
-    - http://foxes.fuzzylookups.com
-    - https://sites.google.com/view/dsgf-ttsd-45-bsd-7888-pot?usp=sharing
-    - https://toike.easterndns.com/rx
-    - https://subway.mcfrappe.radicalnetworks.org/
-    - https://learningabout.uhaneingenieria.com/
-    - https://google-images.global.ssl.fastly.net/
-    - https://ezmoney.global.ssl.fastly.net/
-    - https://honors.classicalmusicfortheworld.org/
-    - https://rammerhead.gokartprix.se
-    - https://interstellar.global.ssl.fastly.net
-    - https://grimace-shake.skibidi-rizz-gyatt-fanum-tax-sigma-ohio.ct.ws/
-    - https://rammer.myclarevision.com/
-    - https://jmew.hkieca.com/
-    - https://howto.books.youngchurch.org/
-    - https://well-did-you-go-to-sakura-site-link-freddys-internet.bloggernow.net/
-    - https://nextgensoccer.oldsouthmarlinclub.com/
-    - https://guide.edu.bdeuronews.com/
-    - https://zenithisthebest.jemix.sg/?page=%2Fgames.html
-    - https://plex.bryongaskin.net/games/roblox/
-    - https://lupinevault.com/
-    - https://frutiger.flyingpenguin.aero/
-    - https://fresh.stlh.im/
-    - https://submit.videoartfestival.ro/
-    - https://classroom.quuqle.com/
-    - https://griefed.worldpaste.com/
-    - https://zxyp.02.garmanage.com/
-    - https://i-like-my-cheese-drippy.bruh.isoluxltda.cl/
-    - https://hardalgebraproblems.thebrittainlawfirm.com/
     """)
+
 def games():
     st.header("nothing here yet😒")
     st.subheader("expected date for fix 12/10/25")
